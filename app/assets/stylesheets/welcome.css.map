@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,EACA;EACI,WAAW,EAAE,IAAI;EACjB,KAAK,EAAE,IAAI",
-"sources": ["welcome.scss"],
-"names": [],
-"file": "welcome.css"
-}
